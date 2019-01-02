@@ -10,7 +10,7 @@ This repository guides you to master in Machine Learning in 12 months.
 
 ## Month-1 - Mathematics 
 
-### Week-1 - Linear Algebra
+## Week-1 - Linear Algebra
 
 **1. 3Blue1Brown -** [Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
 
