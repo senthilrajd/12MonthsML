@@ -34,6 +34,8 @@ This repository guides you to master in Machine Learning in 12 months.
 	Chapter 14 - Abstract vector spaces   
    
    >**Did you notice?** - Animation in these video series. These videos are created based on the **manim** animation engine which was created by Python. If you have more time, you can play with this engine. This link is having sample code and reference code used for these videos. [manim](https://github.com/3b1b/manim).
+   
+   >**Quiz** - You shall try this quiz and evaluate your understandings - [Linear Algebra - Quiz](http://www.maths.usyd.edu.au/u/UG/JM/MATH1002/Quizzes/)
 
   **2. MIT 18-06 -** [18-06-Linear Algbra - Spring 2010](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
